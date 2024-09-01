@@ -4,8 +4,8 @@ Deployment of a Cairo smart contract on Starknet.
 
 ## Hash
 
-![Class hash declared](/home/felipe/Pictures/Screenshots/screenshot1)
+![Class hash declared](./images/screenshot1.png)
 
 ## Deploy
 
-![Contract Deploy](/home/felipe/Pictures/Screenshots/screenshot2)
+![Contract Deploy](./images/screenshot2.png)
