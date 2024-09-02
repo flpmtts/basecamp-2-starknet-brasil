@@ -9,3 +9,11 @@ Deployment of a Cairo smart contract on Starknet.
 ## Deploy
 
 ![Contract Deploy](./images/screenshot2.png)
+
+## Get Counter
+
+![Contract Deploy](./images/get_counter.png)
+
+## Increase Counter
+
+![Contract Deploy](./images/increase_counter.png)
